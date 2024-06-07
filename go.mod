@@ -1,4 +1,4 @@
-module github.com/fbreckle/go-netbox
+module github.com/CppBunny/go-netbox
 
 go 1.19
 
