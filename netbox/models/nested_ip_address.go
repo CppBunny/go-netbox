@@ -136,11 +136,6 @@ func (m *NestedIPAddress) contextValidateDisplay(ctx context.Context, formats st
 }
 
 func (m *NestedIPAddress) contextValidateFamily(ctx context.Context, formats strfmt.Registry) error {
-
-	if err := validate.ReadOnly(ctx, "family", "body", int64(m.Family)); err != nil {
-		return err
-	}
-
 	return nil
 }
 
