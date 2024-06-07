@@ -31,7 +31,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"github.com/fbreckle/go-netbox/netbox/models"
+	"github.com/CppBunny/go-netbox/netbox/models"
 )
 
 // NewDcimInventoryItemRolesUpdateParams creates a new DcimInventoryItemRolesUpdateParams object,

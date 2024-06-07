@@ -28,7 +28,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/fbreckle/go-netbox/netbox/models"
+	"github.com/CppBunny/go-netbox/netbox/models"
 )
 
 // IpamL2vpnTerminationsReadReader is a Reader for the IpamL2vpnTerminationsRead structure.

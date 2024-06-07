@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/fbreckle/go-netbox/netbox/client"
+	"github.com/CppBunny/go-netbox/netbox/client"
 )
 
 func main() {

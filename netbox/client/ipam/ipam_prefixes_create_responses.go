@@ -28,7 +28,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/fbreckle/go-netbox/netbox/models"
+	"github.com/CppBunny/go-netbox/netbox/models"
 )
 
 // IpamPrefixesCreateReader is a Reader for the IpamPrefixesCreate structure.
